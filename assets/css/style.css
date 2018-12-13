@@ -1,1 +1,29 @@
 /* Styles for unit-4-game */
+body {
+    background-image: url(../images/chichenitza2.JPG);
+    width: auto;
+    height: auto;
+    background-size: cover;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.instrustions {
+    width: 100%;
+    opacity: .5;
+}
+
+.valueToGet {
+    height: 40px;
+}
+
+.currentDisplayed {
+    height: 40px;
+}
+
+.wins-losses {
+    height: 40px;
+}
